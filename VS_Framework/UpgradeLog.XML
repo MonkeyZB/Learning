@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BVHPlayer">
+</Property><Property Name="解决方案文件" Value="H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\BVHPlayer.sln">
+</Property><Property Name="用户选项文件" Value="H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\BVHPlayer.suo">
+</Property><Property Name="Date" Value="2014年5月5日">
+</Property><Property Name="Time" Value="19:05">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BVHPlayer.sln" Description="文件已成功备份为 H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\BVHPlayer.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="BVHPlayer.suo" Description="文件已成功备份为 H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\BVHPlayer.suo.old">
+</Event><Event ErrorLevel="0" Project="BVHPlayer" Source="BVHPlayer\BVHPlayer.vcproj" Description="Converting project file 'H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\BVHPlayer\BVHPlayer.vcproj'.">
+</Event><Event ErrorLevel="1" Project="BVHPlayer" Source="BVHPlayer\BVHPlayer.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="BVHPlayer" Source="BVHPlayer\BVHPlayer.vcproj" Description="Done converting to new project file 'H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\BVHPlayer\BVHPlayer.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="BVHPlayer" Source="BVHPlayer\BVHPlayer.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BVHPlayer.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="BVHPlayer.sln" Description="Converted">
+</Event></UpgradeLog>
