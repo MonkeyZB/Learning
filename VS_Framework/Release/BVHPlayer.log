@@ -1,0 +1,79 @@
+﻿生成启动时间为 2014/5/5 19:07:31。
+     1>项目“H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\BVHPlayer\BVHPlayer.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\BVHPlayer.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         Moc'ing aboutdialog.h...
+         Moc'ing glwidget.h...
+         Moc'ing graphicsscene.h...
+         Moc'ing graphwidget.h...
+         Moc'ing interpolationdialog.h...
+         Moc'ing mainwindow.h...
+         Moc'ing skeletondialog.h...
+         Rcc'ing Resource.qrc...
+       ClCompile:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GL /I.\GeneratedFiles /I..\QT\include /I.\GeneratedFiles\Release /I..\QT\include\qtmain /I..\QT\include\QtCore /I..\QT\include\QtGui /I..\QT\include\QtOpenGL /I.\ /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D QT_LARGEFILE_SUPPORT /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_OPENGL_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\\" /Fd"H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt aboutdialog.cpp Animation.cpp Camera.cpp edge.cpp glwidget.cpp graphicsscene.cpp graphwidget.cpp interpolationdialog.cpp main.cpp mainwindow.cpp node.cpp OpenGLViewer.cpp qgraphicsitem.cpp skeletondialog.cpp spline.cpp Transformation.cpp GeneratedFiles\Release\moc_aboutdialog.cpp GeneratedFiles\Release\moc_glwidget.cpp GeneratedFiles\Release\moc_graphicsscene.cpp GeneratedFiles\Release\moc_graphwidget.cpp GeneratedFiles\Release\moc_interpolationdialog.cpp GeneratedFiles\Release\moc_mainwindow.cpp GeneratedFiles\Release\moc_skeletondialog.cpp
+         aboutdialog.cpp
+         Animation.cpp
+         Camera.cpp
+         edge.cpp
+         glwidget.cpp
+         graphicsscene.cpp
+         graphwidget.cpp
+         interpolationdialog.cpp
+         main.cpp
+         mainwindow.cpp
+         node.cpp
+         OpenGLViewer.cpp
+         qgraphicsitem.cpp
+         skeletondialog.cpp
+         spline.cpp
+         Transformation.cpp
+         moc_aboutdialog.cpp
+         moc_glwidget.cpp
+         moc_graphicsscene.cpp
+         moc_graphwidget.cpp
+         正在生成代码...
+         正在编译...
+         moc_interpolationdialog.cpp
+         moc_mainwindow.cpp
+         moc_skeletondialog.cpp
+         正在生成代码...
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GL /I.\GeneratedFiles /I..\QT\include /I.\GeneratedFiles\Release /I..\QT\include\qtmain /I..\QT\include\QtCore /I..\QT\include\QtGui /I..\QT\include\QtOpenGL /I.\ /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D QT_LARGEFILE_SUPPORT /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_OPENGL_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\\" /Fd"H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\qrc_Resource.cpp
+         qrc_Resource.cpp
+       Link:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\BVHPlayer.exe" /NOLOGO /LIBPATH:..\QT\lib /LIBPATH:..\GL qtmain.lib QtCore4.lib QtGui4.lib QtOpenGL4.lib opengl32.lib glu32.lib glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\BVHPlayer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\BVHPlayer.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\BVHPlayer.lib" /MACHINE:X86 "H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\aboutdialog.obj"
+         "H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\Animation.obj"
+         "H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\Camera.obj"
+         "H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\edge.obj"
+         "H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\glwidget.obj"
+         "H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\graphicsscene.obj"
+         "H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\graphwidget.obj"
+         "H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\interpolationdialog.obj"
+         "H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\main.obj"
+         "H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\mainwindow.obj"
+         "H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\node.obj"
+         "H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\OpenGLViewer.obj"
+         "H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\qgraphicsitem.obj"
+         "H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\skeletondialog.obj"
+         "H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\spline.obj"
+         "H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\Transformation.obj"
+         "H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\qrc_Resource.obj"
+         "H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\moc_aboutdialog.obj"
+         "H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\moc_glwidget.obj"
+         "H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\moc_graphicsscene.obj"
+         "H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\moc_graphwidget.obj"
+         "H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\moc_interpolationdialog.obj"
+         "H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\moc_mainwindow.obj"
+         "H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\moc_skeletondialog.obj"
+         BVHPlayer.vcxproj -> H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\BVHPlayer.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\BVHPlayer.exe;#1" /manifest "H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\BVHPlayer.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\BVHPlayer.unsuccessfulbuild”。
+         正在对“H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\Release\BVHPlayer.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“H:\20140305\Course\computer animation\Computer Animation\BVHPlayer-Framework\VS_Framework\BVHPlayer\BVHPlayer.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:54.04
